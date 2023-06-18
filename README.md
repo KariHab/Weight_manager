@@ -17,4 +17,5 @@ No GUI for the moment, command-line only
 - Enter the weight goal
 - Get a simple result file you can copy to your own metrics tracker 
 
-![image](https://github.com/KariHab/Weight_manager/assets/121245611/76a322b9-812d-47e2-a845-f70480cdeb28)
+![Untitled](https://github.com/KariHab/Weight_manager/assets/121245611/52d6968f-9315-46b8-aa6e-96660898242e)
+
