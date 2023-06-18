@@ -3,7 +3,7 @@ A weight loss tracker over a week. Simple maths analysis and extrapolation date 
 No GUI for the moment, command-line only 
 
 # What it does
-- Calculate the eman of your last measures
+- Calculate the mean of your last measures
 - Calculate your loss over the last 7 days
 - Gives you a mean loss per day
 - Gives you an extrapolated weight you should reach based on your last measures
