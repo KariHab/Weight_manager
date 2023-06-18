@@ -12,7 +12,7 @@ No GUI for the moment, command-line only
 
   
 # How to use
-- Compile it with "make"
+- Compile it with "make" and execute ./tracker
 - Enter the last 7 weight measures you had over the last week
 - Enter the weight goal
 - Get a simple result file you can copy to your own metrics tracker 
