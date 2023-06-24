@@ -1,3 +1,7 @@
+// A simple weight tracker to keep track of your weight loss
+// Karima H - June 2023
+
+
 #include "weight_track.h"
 
 int main()
