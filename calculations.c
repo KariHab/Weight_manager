@@ -50,24 +50,3 @@ float extrapolate_weight(data weight)
     return (weight.extrapolation);
 }
 
-// int day_to_goal(days day)
-// {
-//     data weight;
-//     printf("Estimate when you will reach a target goal. Enter your target: ");
-//     scanf("%f", &weight.weight_target);
-//     weight.weight_to_goal = weight.daily_weight[DAYS - 1] - weight.weight_target;
-//     weight.loss_per_day = weight.loss_per_week / DAYS;
-//     day.days_to_goal = (weight.weight_to_goal / (weight.loss_per_day));
-//     printf("%d", day.days_to_goal);
-//     if (day.days_to_goal < 0)
-//     {
-//         printf(RED "Error, please set real target weight\n" WHITE);
-//         printf("Estimate when you will reach a target goal. Enter your target: ");
-//         scanf("%f", &weight.weight_target);
-//     }
-//     if (day.days_to_goal >= 0 && day.days_to_goal <= 7)
-//         printf(GREEN "You should reach your goal in less than a week! Keep going, you're almost there!\n" WHITE);
-//     if (day.days_to_goal > 7)
-//         printf(GREEN "You should reach your goal in %d days\n" WHITE, day.days_to_goal);
-//     return(day.days_to_goal);
-// }

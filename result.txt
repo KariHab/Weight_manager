@@ -2,3 +2,7 @@
 Sat Jun 17 21:57:41 2023
 Mean weight: 55.03 kg
 Extrapolated weight in 7 days: 53.80 kg
+
+Sat Jun 24 14:49:19 2023
+Mean weight: 3.00 kg
+Extrapolated weight in 7 days: 3.00 kg
